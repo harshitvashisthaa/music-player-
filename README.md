@@ -16,4 +16,4 @@ A fully responsive, web-based music player featuring a sleek user interface insp
 
 *   **HTML5:** Structured the player's layout, controls, and tracklist.
 *   **CSS3:** Designed the dark theme, hover states, layout grids, and responsive design for mobile and desktop screens.
-*   **Vanilla JavaScript:** Handled the core logic for the HTML5 `<audio>` API, updating the progress bar, and managing the playlist array.
+  
